@@ -14,10 +14,19 @@ In Linux distributions, such as Ubuntu, you can open the Erlang commandline by u
 $ erl
 ````
 
+Now. you will see the commandline as follows:
+
+
 In Windows, after installing Erlang through the Installer, you can simply open the Erlang commandline using your Search bar (the same way you find any installed application).
 
 This folder has the necessary erl files. Practice the code using the following commands.
 
+To run the hello program:
+````
+c(hello).
+````
+
+The pub-sub example is as-follows. Copy-paste only the commands, ignoring the outcomes and comments left below as an explanation.
 ````
 % Compile the modules
 2> c(publisher).
