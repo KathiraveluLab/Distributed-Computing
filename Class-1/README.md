@@ -9,7 +9,7 @@ To install in Windows, fetch the [installer](https://www.erlang.org/downloads) a
 
 We are not mastering Erlang and its syntax here. Just using it as a vehicle to practice what we discuss in class.
 
-In Linux distributions, such as Ubuntu, you can open the Erlang commandline by using the erl command.
+In Linux distributions, such as Ubuntu, you can open the Erlang commandline by using the erl command, by running it from the same directory as your code.
 ````
 $ erl
 ````
