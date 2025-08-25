@@ -18,6 +18,7 @@ In Windows, after installing Erlang through the Installer, you can simply open t
 
 This folder has the necessary erl files. Practice the code using the following commands.
 
+````
 % Compile the modules
 2> c(publisher).
 {ok,publisher}
