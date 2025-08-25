@@ -15,7 +15,14 @@ $ erl
 ````
 
 Now. you will see the commandline as follows:
+````
+~/distributed-computing$ erl
+Erlang/OTP 25 [erts-13.2.2.5] [source] [64-bit] [smp:4:4] [ds:4:4:10] [async-threads:1] [jit:ns]
 
+Eshell V13.2.2.5  (abort with ^G)
+1> 
+
+````
 
 In Windows, after installing Erlang through the Installer, you can simply open the Erlang commandline using your Search bar (the same way you find any installed application).
 
