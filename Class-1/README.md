@@ -4,11 +4,20 @@ In Ubuntu, the installation will be
 ````
 $ sudo apt install erlang
 ````
-We are not mastering Erlang and its syntax here. Just using it as a vehicle to practice what we discuss in class.
-This folder has the necessary erl files. Practice the code using the following commands.
 
+To install in Windows, fetch the [installer](https://www.erlang.org/downloads) and install it. 
+
+We are not mastering Erlang and its syntax here. Just using it as a vehicle to practice what we discuss in class.
+
+In Linux distributions, such as Ubuntu, you can open the Erlang commandline by using the erl command.
 ````
 $ erl
+````
+
+In Windows, after installing Erlang through the Installer, you can simply open the Erlang commandline using your Search bar (the same way you find any installed application).
+
+This folder has the necessary erl files. Practice the code using the following commands.
+
 % Compile the modules
 2> c(publisher).
 {ok,publisher}
